@@ -1,3 +1,3 @@
 # My first ML Course
 
-João Paulo 
+This repository is made of my anotation and codes for the Udemy course: by 
